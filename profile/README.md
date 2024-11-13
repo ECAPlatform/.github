@@ -10,6 +10,9 @@
 - [安装指南](install.md)
 - [使用说明](usage.md)
 - [贡献指南](CONTRIBUTING.md)
+- [企业微信指南](wechat.md)
+- [Teams指南](teams.md)
+- [BI指南](BI.md)
 
 
 
