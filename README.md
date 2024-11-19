@@ -18,3 +18,7 @@
 
 导出转人工的日志的时候，没有反应，目前聊天日志数据量比较大，需要进行性能优化
 
+报错原因：
+Caused by: java.sql.SQLSyntaxErrorException: Expression #4 of SELECT list is not in GROUP BY clause and contains nonaggregated column 'm2.art_text' which is not functionally dependent on columns in GROUP BY clause; this is incompatible with sql_mode=only_full_group_by
+
+
