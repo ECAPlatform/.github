@@ -55,4 +55,7 @@ Caused by: java.sql.SQLSyntaxErrorException: Expression #4 of SELECT list is not
 
 附件是用户那边聊天记录以及SD这边的聊天记录对比图，辛苦帮忙查明是因为字数问题还是因为对话中包含了某些特殊字符，谢谢
 
+###　提示用户下线
+ SDWQZY账号状态正常的情况下，并且SDWQZY没有主动发起结束转人工，聊天过程中突然提示"---------用户已下线----------"，具体请看附件截图，辛苦帮忙检查，谢谢
+
 
