@@ -86,7 +86,13 @@ Caused by: java.sql.SQLSyntaxErrorException: Expression #4 of SELECT list is not
 
 ---
 
+<<<<<<< HEAD
 #### 8. 转人工 Portal：SD 和用户聊天过程中，SD 退出当前会话或因网络原因退出 chat，左侧用户列表状态未及时更新
+=======
+###　提示用户下线
+ SDWQZY账号状态正常的情况下，并且SDWQZY没有主动发起结束转人工，聊天过程中突然提示"---------用户已下线----------"，具体请看附件截图，辛苦帮忙检查，谢谢
+
+>>>>>>> 14ff39a49d176d614467be7d6f6257ca6f49954d
 
 ---
 
